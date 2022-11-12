@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanishk</h1>
 <h3 align="center">A passionate computer science from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/AYy9YYXHmsGek/200w.gif?cid=6c09b952z8vd2qrlby4he80jp5ts8fl88z2kwphvgy7660iu&rid=200w.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://github.com/bitphonix/bitphonix/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif">
 
 
 
