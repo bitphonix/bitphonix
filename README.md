@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanishk</h1>
-<h3 align="center">A passionate computer science from India</h3>
+<h3 align="center">A passionate computer science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/bitphonix/bitphonix/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif">
 
 
