@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DSA**
 
-- 📫 How to reach me **100nitanishk2002@gmail.com**
+- 📫 How to reach me **tanishk100ni2003@gmail.com**
 
 - ⚡ Fun fact **I love watching anime in my free time.**
 
