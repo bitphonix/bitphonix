@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Mugs app](https://mugsapp.in/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Langchain** and **Llama Index**
 
 - 💬 Ask me about **DSA**
 
