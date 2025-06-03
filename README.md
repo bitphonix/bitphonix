@@ -5,15 +5,15 @@
 
 
 
-- 🔭 I’m currently working on [Mugs app](https://mugsapp.in/)
+- 🔭 I’m currently working on [MediQuery - AI and Nexus Agent]
 
-- 🌱 I’m currently learning **Langchain** and **Llama Index**
+- 🌱 I’m currently learning **LangGraph** and **AI Agents**
 
 - 💬 Ask me about **DSA**
 
-- 📫 How to reach me **tanishk100ni2003@gmail.com**
+- 📫 How to reach me **100nitanishk2002@gmail.com**
 
-- ⚡ Fun fact **I love watching anime in my free time.**
+- ⚡ Fun fact **I love making crazy projects in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
