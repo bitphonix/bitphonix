@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Engram - causal memory across AI sessions]
+- 🔭 I’m currently working on **Engram - causal memory across AI sessions**
 
 - 💬 Ask me about **AI -Agents**
 
