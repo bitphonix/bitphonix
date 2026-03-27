@@ -5,11 +5,9 @@
 
 
 
-- 🔭 I’m currently working on [MediQuery - AI and Nexus Agent]
+- 🔭 I’m currently working on [Engram - causal memory across AI sessions]
 
-- 🌱 I’m currently learning **LangGraph** and **AI Agents**
-
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **AI -Agents**
 
 - 📫 How to reach me **100nitanishk2002@gmail.com**
 
